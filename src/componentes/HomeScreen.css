@@ -1,0 +1,6 @@
+.homeScreen {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  flex-direction: column;
+}
